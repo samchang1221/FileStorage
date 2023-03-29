@@ -1,4 +1,5 @@
-[
+{
+ "Products": [
     {
         "id": "P001",
         "WiFi": "WiFi",
@@ -71,4 +72,5 @@
         "color": "gray",
         "storage": "32G"
     },
-]
+]  
+}
