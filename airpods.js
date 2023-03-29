@@ -1,0 +1,74 @@
+[
+    {
+        "id": "P001",
+        "WiFi": "WiFi",
+        "color": "red",
+        "storage": "64G"
+    },
+    {
+        "id": "P002",
+        "WiFi": "WiFi",
+        "color": "blue",
+        "storage": "64G"
+    },
+    {
+        "id": "P003",
+        "WiFi": "WiFi",
+        "color": "gray",
+        "storage": "64G"
+    },
+    {
+        "id": "P004",
+        "WiFi": "WiFi",
+        "color": "red",
+        "storage": "32G"
+    },
+    {
+        "id": "P005",
+        "WiFi": "WiFi",
+        "color": "blue",
+        "storage": "32G"
+    },
+    {
+        "id": "P006",
+        "WiFi": "WiFi",
+        "color": "gray",
+        "storage": "32G"
+    },
+    {
+        "id": "P007",
+        "WiFi": "WiFi+4G",
+        "color": "red",
+        "storage": "64G"
+    },
+    {
+        "id": "P008",
+        "WiFi": "WiFi+4G",
+        "color": "blue",
+        "storage": "64G"
+    },
+    {
+        "id": "P009",
+        "WiFi": "WiFi+4G",
+        "color": "gray",
+        "storage": "64G"
+    },
+    {
+        "id": "P010",
+        "WiFi": "WiFi+4G",
+        "color": "red",
+        "storage": "32G"
+    },
+    {
+        "id": "P011",
+        "WiFi": "WiFi+4G",
+        "color": "blue",
+        "storage": "32G"
+    },
+    {
+        "id": "P012",
+        "WiFi": "WiFi+4G",
+        "color": "gray",
+        "storage": "32G"
+    },
+]
