@@ -1,0 +1,124 @@
+{
+    "Products": [
+        {
+            "id": "01",
+            "color": "太空灰色",
+            "storage": "64G",
+            "network": "Wi-Fi"
+        },
+        {
+            "id": "02",
+            "color": "太空灰色",
+            "storage": "256G",
+            "network": "Wi-Fi"
+        },
+        {
+            "id": "03",
+            "color": "太空灰色",
+            "storage": "64G",
+            "network": "Wi-Fi+行動網路"
+        },
+        {
+            "id": "04",
+            "color": "太空灰色",
+            "storage": "256G",
+            "network": "Wi-Fi+行動網路"
+        },
+        {
+            "id": "05",
+            "color": "藍色",
+            "storage": "64G",
+            "network": "Wi-Fi"
+        },
+        {
+            "id": "06",
+            "color": "藍色",
+            "storage": "256G",
+            "network": "Wi-Fi"
+        },
+        {
+            "id": "07",
+            "color": "藍色",
+            "storage": "64G",
+            "network": "Wi-Fi+行動網路"
+        },
+        {
+            "id": "08",
+            "color": "藍色",
+            "storage": "256G",
+            "network": "Wi-Fi+行動網路"
+        },
+        {
+            "id": "09",
+            "color": "粉紅色",
+            "storage": "64G",
+            "network": "Wi-Fi"
+        },
+        {
+            "id": "10",
+            "color": "粉紅色",
+            "storage": "256G",
+            "network": "Wi-Fi"
+        },
+        {
+            "id": "11",
+            "color": "粉紅色",
+            "storage": "64G",
+            "network": "Wi-Fi+行動網路"
+        },
+        {
+            "id": "12",
+            "color": "粉紅色",
+            "storage": "256G",
+            "network": "Wi-Fi+行動網路"
+        },
+        {
+            "id": "13",
+            "color": "紫色",
+            "storage": "64G",
+            "network": "Wi-Fi"
+        },
+        {
+            "id": "14",
+            "color": "紫色",
+            "storage": "256G",
+            "network": "Wi-Fi"
+        },
+        {
+            "id": "15",
+            "color": "紫色",
+            "storage": "64G",
+            "network": "Wi-Fi+行動網路"
+        },
+        {
+            "id": "16",
+            "color": "紫色",
+            "storage": "256G",
+            "network": "Wi-Fi+行動網路"
+        },
+        {
+            "id": "17",
+            "color": "星光色",
+            "storage": "64G",
+            "network": "Wi-Fi"
+        },
+        {
+            "id": "18",
+            "color": "星光色",
+            "storage": "256G",
+            "network": "Wi-Fi"
+        },
+        {
+            "id": "19",
+            "color": "星光色",
+            "storage": "64G",
+            "network": "Wi-Fi+行動網路"
+        },
+        {
+            "id": "20",
+            "color": "星光色",
+            "storage": "256G",
+            "network": "Wi-Fi+行動網路"
+        }
+    ]
+}
