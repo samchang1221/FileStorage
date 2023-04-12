@@ -1,5 +1,5 @@
 {
-"pizzaArray" = [
+"pizzaArray": [
             { "id": "1", "name": "炭火肉食披薩", "imageurl": "https://www.0800076666.com.tw/Files/MenuPizza/62/%E7%82%AD%E7%81%AB%E8%82%89%E9%A3%9F.png" },
             { "id": "2", "name": "美式嗆司臘腸披薩", "imageurl": "https://www.0800076666.com.tw/Files/MenuPizza/26/%E7%BE%8E%E5%BC%8F%E5%97%86%E5%8F%B8%E8%87%98%E8%85%B8.png" },
             { "id": "3", "name": "龍蝦沙拉披薩", "imageurl": "https://www.0800076666.com.tw/Files/MenuPizza/30/%E9%BE%8D%E8%9D%A6%E6%B2%99%E6%8B%89.png" },
